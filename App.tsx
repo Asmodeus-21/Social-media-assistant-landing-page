@@ -3,7 +3,7 @@ import { Section } from './components/Section';
 import { ListItem } from './components/ListItem';
 import { CheckIcon, XCircleIcon } from './components/icons';
 
-const GOOGLE_FORM_URL = "#"; // Placeholder for the actual Google Form URL
+const GOOGLE_FORM_URL = "https://docs.google.com/forms/d/1WawmBVFV8FmxIcr7-P3tZMYUgN7YVWkVS-gY8X6Bb6M/edit";
 
 const App: React.FC = () => {
   return (
